@@ -6,7 +6,7 @@ In recent work, I have been examining how state-of-the-art models trained for ma
 
 #### Repositories
 
-- Experiments with wav2vec 2.0 models involving only 10 minutes of transcribed speech: https://github.com/fauxneticien/w2v2-10min-replication
+- Experiments with wav2vec 2.0 models involving only 10 minutes of transcribed speech: [https://github.com/fauxneticien/w2v2-10min-replication](https://github.com/fauxneticien/w2v2-10min-exps)
 - A pipeline to isolate and transcribe one language in mixed-language speech: https://github.com/CoEDL/vad-sli-asr
 - A reference implementation for a Query-by-Example Spoken Term Detection service: https://github.com/parledoct/qbestdocks
 - Evaluation of feature extraction methods for query-by-example spoken term detection with low resource languages: https://github.com/fauxneticien/qbe-std_feats_eval
