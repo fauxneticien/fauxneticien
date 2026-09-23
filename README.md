@@ -1,6 +1,6 @@
 ### Nay San
 
-Staff Engineer at [rime](https://rime.ai), working on data and modelling for
+Member of Technical Staff at [rime](https://rime.ai), working on data and modelling for
 conversational voice AI. Previously a PhD in Linguistics at Stanford (advised by
 [Dan Jurafsky](https://web.stanford.edu/~jurafsky/)), on improving access to
 untranscribed speech corpora with AI.
